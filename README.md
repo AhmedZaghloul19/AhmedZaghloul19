@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ahmad Zaghloul! 🚀 
 
-![iOS Developer Banner]([https://via.placeholder.com/1200x400](https://i.pinimg.com/originals/9c/6f/a4/9c6fa4011953531ffe27a10e3f8f8899.png)) 
+![iOS Developer Banner](https://i.pinimg.com/originals/9c/6f/a4/9c6fa4011953531ffe27a10e3f8f8899.png)
 ## 👨‍💻 About Me
 
 - 🎯 **iOS Developer** with a passion for creating elegant and scalable mobile applications.
