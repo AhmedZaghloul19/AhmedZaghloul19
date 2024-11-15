@@ -28,8 +28,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedZaghloul19&show_icons=true&hide=prs&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedZaghloul19&theme=radical" />
-</div>
+<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedZaghloul19&theme=radical" />
+</div> -->
 
 ---
 
