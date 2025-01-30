@@ -5,7 +5,6 @@
 
 - 🎯 **iOS Developer** with a passion for creating elegant and scalable mobile applications.
 - 🛠 Proficient in **Swift**, **SwiftUI**, **UIKit**, and **Combine**.
-- 🌐 Explore my portfolio at [test.com](https://test.com). //TODO
 - 💬 Ask me about **iOS Architecture**, **Design Patterns**, or **Performance Optimization**.
 - 📚 Currently learning: Advanced **Navigation&Routing** in SwiftUI.
 
@@ -31,21 +30,6 @@
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedZaghloul19&theme=radical" />
 </div> -->
 
----
-
-## 📂 Projects Showcase
-
-### 🔥 [Awesome App](https://github.com/yourusername/awesome-app) //TODO
-A feature-rich iOS app built using **SwiftUI** and **Combine**.
-
-### 🌟 [Custom SwiftUI Components](https://github.com/yourusername/custom-swiftUI-components) // TODO
-Reusable SwiftUI components for faster iOS development.
-
-### 💡 [Core Data Playground](https://github.com/yourusername/core-data-playground) // TODO
-Experimenting with **Core Data** and complex relationships.
-
----
-
 ## 🌟 Featured Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-app&theme=radical)](https://github.com/yourusername/awesome-app)
@@ -64,5 +48,4 @@ Experimenting with **Core Data** and complex relationships.
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [website.com](https://website.com) // TODO
 - 💼 LinkedIn: [Ahmad Zaghloul](https://www.linkedin.com/in/ahmedmohamedzaghloul/)
