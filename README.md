@@ -27,8 +27,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedZaghloul19&show_icons=true&hide=prs&theme=radical" />
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedZaghloul19&theme=radical" />
-</div> -->
+<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedZaghloul19&theme=radical" />
+</div> 
 
 ## 🌟 Featured Repositories
 
@@ -36,7 +36,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=custom-uikit-components&theme=radical)](https://github.com/yourusername/custom-uikit-components)
 
 ---
-
+-->
 ## 🎉 Fun Facts About Me
 
 - 🚴‍♂️ I love cycling and exploring new trails.
