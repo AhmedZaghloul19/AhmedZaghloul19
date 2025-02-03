@@ -40,7 +40,6 @@
 ## 🎉 Fun Facts About Me
 
 - 🚴‍♂️ I love cycling and exploring new trails.
-- 📱 First iOS app I built got featured on [App Store]([https://apple.com/app-store](https://apps.apple.com/ae/app/smart-dma/id1292188129)).
 - 📱 I built flutter and native Android Apps as well [Mihrab Flutter](https://github.com/AhmedZaghloul19/Mihrab)
 - 🎨 Obsessed with pixel(point)-perfect UI design.
 
